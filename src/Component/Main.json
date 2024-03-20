@@ -1,0 +1,37 @@
+{
+
+    "login":[{"name":"sathesh",
+           "password":"123"},
+           
+              {"name":"krishna",
+           "password":"1234"},
+              
+             {"name":"anish",
+           "password":"987"},
+    
+            {"name":"virat",
+           "password":"12356"} ],
+
+
+
+    "products":[{"img":"https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/r/o/o/-original-imaghkvuzxkcna4n.jpeg?q=70","name":"Redmi Note 12 pro","price":23000,"Isfav":false,"Iscart":false,"id":1,"quantity":1,"show":true,"show1":false},
+
+                {"img":"https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/m/r/i/note-12-5g-mzb0ei8in-redmi-original-imagpgr9gpmjjnwa.jpeg?q=70","name":"Redmi Note 12 ","price":18000,"Isfav":false,"Iscart":false,"id":2,"quantity":1,"show":true,"show1":false},
+
+                {"img":"https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/m/m/3/11-prime-mzb0ceoin-redmi-original-imagzqvrz4mvf6tx.jpeg?q=70","name":"Redmi 11 Prime ","price":12000,"Isfav":false,"Iscart":false,"id":3,"quantity":1,"show":true,"show1":false},
+
+                {"img":"https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/b/g/t/a2-mobzc1pin-redmi-original-imagpvyagktrdava.jpeg?q=70","name":"Redmi A2 ","price":10000,"Isfav":false,"Iscart":false,"id":4,"quantity":1,"show":true,"show1":false},
+
+                {"img":"https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/o/w/a/12c-22120rn86i-redmi-original-imagr72cussgvzrg.jpeg?q=70","name":"Redmi 12 C","price":140000,"Isfav":false,"Iscart":false,"id":5,"quantity":1,"show":true,"show1":false},
+
+                {"img":"https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/a/3/q/-original-imagdrghswubhh2p.jpeg?q=70","name":"Redmi 10 A ","price":110000,"Isfav":false,"Iscart":false,"id":6,"quantity":1,"show":true,"show1":false},
+
+                {"img":"https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/j/z/h/-original-imag7gy6tzuz3hk8.jpeg?q=70","name":"Redmi 9 A ","price":70000,"Isfav":false,"Iscart":false,"id":7,"quantity":1,"show":true,"show1":false},
+
+                {"img":"https://rukminim2.flixcart.com/image/300/300/kod858w0/mobile/m/j/h/11x-pro-11x-pro-mi-original-imag2tzmnbhuhgjj.jpeg?q=90","name":"Redmi X11 Pro ","price":34999,"Isfav":false,"Iscart":false,"id":8,"quantity":1,"show":true,"show1":false}
+
+    ]
+    
+    
+    }
+    
