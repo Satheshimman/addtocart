@@ -13,7 +13,7 @@ export const Routing =()=>{
 
     console.log(state.iscart)
     return(
-        <StateContext.Provider value={{state,dispatch}}>
+        <StateContext.Provider value={{state,dispatch}} basename={process.env.PUBLIC_URL}>
             <BrowserRouter>
              <Routes>
                 <Route path="/" element={<Login/>}></Route>
